@@ -30,8 +30,6 @@ Reviewed for source correspondence, wave-based composition and raised-ink relief
 
 ## Best-fit situations and problems solved
 
-## Best-fit situations and problems solved
-
 For personal photography collections, independent publications, exhibition studies and lifestyle visuals. A weak composition, busy background or small subject becomes a starting point for subtraction, rearrangement, cropping and scale changes—not a reason to apply a filter.
 
 ## Original prompt

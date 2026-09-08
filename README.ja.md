@@ -10,7 +10,25 @@
 
 ## サンプル展示
 
-計算資源を節約するため、このバッチでは画像モデルを呼び出さず、作例画像も生成していません。原文・リンク・実行スクリプトを検証済みですが、実際の生成品質は未検証です。以下は呼び出し例であり、生成作品ではありません。
+Panel 167 の異なる元画像から個別に生成した初回作例 8 点です。短い英語コピーを使用。横型は 1536×864 で左右等分、縦型は 1152×1536 で上下等分です。
+
+元画像との対応、波形による構図と厚いインクの浮彫りを確認しました。05 の車は写実的で金属感があり、06 は細部が多く、09・12 は背景を多く残しています。波形が端まで伸びる作例が多く、四周の広い余白が不足し、一部の色はくすんでいます。初回の実際の結果であり、すべてが風格検証に合格したわけではありません。
+
+16:9 · 50:50
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
+3:4 · 50:50
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+
+## 向いている場面と解決する課題
 
 ## 向いている場面と解決する課題
 

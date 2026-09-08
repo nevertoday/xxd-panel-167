@@ -10,7 +10,25 @@
 
 ## 샘플 작품
 
-연산 자원을 아끼기 위해 이번 배치에서는 이미지 모델을 호출하거나 예시 이미지를 생성하지 않았습니다. 원문·링크·실행 스크립트는 확인했지만 실제 생성 품질은 아직 검증하지 않았습니다. 아래 예시는 생성 작품이 아닌 호출 명령입니다.
+서로 다른 원본에서 독립 생성한 Panel 167의 첫 시도 샘플 8장입니다. 짧은 영어 문구를 사용합니다. 가로는 1536×864 좌우 균등 분할, 세로는 1152×1536 상하 균등 분할입니다.
+
+원본 대응 관계, 파도형 구도와 두꺼운 잉크 부조를 검토했습니다. 05의 자동차는 사실적이고 금속성이 강하며 06은 세부가 많고 09·12는 풍경을 많이 남겼습니다. 여러 파형이 가장자리까지 이어져 사방의 넓은 여백이 부족하며 일부 색은 탁합니다. 모든 스타일 기준을 통과한 것은 아닌 실제 첫 결과입니다.
+
+16:9 · 50:50
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
+3:4 · 50:50
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+
+## 잘 맞는 상황과 해결하는 문제
 
 ## 잘 맞는 상황과 해결하는 문제
 

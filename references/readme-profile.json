@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 167｜Centred Wave-form Raised-ink Relief: builds a centred, abstract wave-like flowing form — a rising, curling curve or band of colour that carries the photo's most recognisable subject on its crest or bend (it need not be real sea water) — and renders both in thick raised-ink, embossed screen-print texture: stacked ink with slightly raised edges, layered height, ink grain and a very light side light. Two to four bright, lively colours from the photo with a small warm accent, a near-white ground, very large whitespace and a few quiet words. Not plastic 3D or CG. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-167 or asks for raised-ink, embossed screen-print or centred wave-composition poster from a photo.",
+  "short_description": "波形厚墨浮雕志：让照片主角落在一道居中的抽象波浪上，整体像厚油墨压印的浮雕",
+  "zh-CN": {
+    "name": "波形厚墨浮雕志",
+    "tagline": "让照片主角落在一道居中的抽象波浪上，整张像厚厚的油墨压印出来的浮雕。",
+    "look": "画面中央是一道起伏、翻卷的抽象波形，可以是曲线也可以是一条波浪色带，不必真的是海水。照片里最好认的主体嵌在浪峰、弯曲处或转折里，也可以局部穿出或被波浪遮住。主体和波浪都像厚油墨堆叠、压印在纸上：边缘微微凸起，有层叠高度和油墨颗粒，侧光很轻。颜色从照片取 2–4 种明亮鲜活的颜色，配少量暖色点睛，底色近白，四周大片留白，少量字落在留白或波形边上。",
+    "traits": [
+      "居中波形",
+      "厚油墨浮雕",
+      "压印颗粒",
+      "鲜活配色",
+      "超大留白"
+    ],
+    "good": [
+      "带动势或曲线感的主体：冲浪的人、跳跃的猫、奔跑的孩子、一条鱼",
+      "可以“骑”在波浪上的物件：一艘小船、一辆单车、一只鸟、一杯咖啡",
+      "想做成有能量感的活动海报、封面或周边印刷的照片"
+    ],
+    "poor": [
+      "需要保留完整场景的照片，这里只有中央一道波形和一个主体",
+      "安静、方正、强调直线秩序的建筑照片，和流动的波形不太合拍",
+      "想要塑料 3D、金属反光、写实插画或 CG 渲染的需求"
+    ]
+  },
+  "en": {
+    "name": "Centred Wave-form Raised-ink Relief",
+    "tagline": "Sets the star of your photo on a centred abstract wave, printed as if in thick raised ink.",
+    "look": "At the centre is a rising, curling abstract wave, either a line or a band of colour, and it does not have to be real sea water. The most recognisable subject sits on the crest, a curve or a turn, and can also break through or be partly hidden by the wave. Subject and wave both look like thick ink stacked and pressed onto paper: slightly raised edges, layered height and ink grain, with a very light side light. Two to four bright, lively colours from the photo plus a small warm accent sit on a near-white ground with wide white space all round, and a few words rest in that space or along the wave.",
+    "traits": [
+      "Centred wave form",
+      "Raised-ink relief",
+      "Pressed ink grain",
+      "Lively colour",
+      "Vast whitespace"
+    ],
+    "good": [
+      "Subjects with movement or curves: a surfer, a leaping cat, a running child, a fish",
+      "Things that can ride on a wave: a small boat, a bicycle, a bird, a cup of coffee",
+      "Photos you want as an energetic event poster, a cover or printed merchandise"
+    ],
+    "poor": [
+      "Photos where the whole scene must stay, since only one central wave and one subject remain",
+      "Quiet, boxy architecture built on straight lines, which sits awkwardly with a flowing wave",
+      "Requests for plastic 3D, metallic reflections, realistic illustration or CG rendering"
+    ]
+  },
+  "ja": {
+    "name": "中央の波形と厚盛りインク",
+    "tagline": "写真の主役を中央の抽象的な波に乗せ、全体を厚く盛ったインクで刷った浮彫のように仕上げます。",
+    "look": "画面の中央には、うねり巻き上がる抽象的な波形があります。線でも波の色帯でもよく、本物の海である必要はありません。写真でいちばん目立つ主役は波頭やカーブ、折り返しに収まり、一部が突き抜けたり波に隠れたりすることもあります。主役も波も、厚いインクを重ねて紙に刷り込んだように見え、縁がわずかに盛り上がり、層の高さとインクの粒子があり、横からの光はごく弱めです。色は写真から明るく生き生きとした二〜四色に、少しの暖色を差し、白に近い地のまわりは広い余白で、言葉は余白か波の縁に少しだけ入ります。",
+    "traits": [
+      "中央の波形",
+      "厚盛りインクの浮彫",
+      "刷りの粒子",
+      "生き生きした色",
+      "大きな余白"
+    ],
+    "good": [
+      "動きや曲線のある主役：サーファー、跳ぶ猫、走る子ども、魚",
+      "波に乗せられる物：小舟、自転車、鳥、一杯のコーヒー",
+      "勢いのあるイベントポスター、表紙、グッズ印刷にしたい写真"
+    ],
+    "poor": [
+      "場面全体を残したい写真（中央の波ひとつと主役ひとつだけになります）",
+      "直線の秩序が中心の静かで四角い建築（流れる波とはなじみにくいです）",
+      "プラスチックのような 3D、金属の反射、写実イラスト、CG レンダリングを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "중앙 파형과 두꺼운 잉크 부조",
+    "tagline": "사진 속 주인공을 가운데 추상적인 파도 위에 올리고, 두껍게 올린 잉크로 찍은 부조처럼 만듭니다.",
+    "look": "화면 가운데에 일렁이며 말려 오르는 추상 파형이 있습니다. 선이어도 파도 모양 색 띠여도 되며, 진짜 바닷물일 필요는 없습니다. 사진에서 가장 알아보기 쉬운 주인공은 물마루나 곡선, 꺾이는 곳에 자리 잡고, 일부가 뚫고 나오거나 파도에 가려지기도 합니다. 주인공과 파도 모두 두꺼운 잉크를 쌓아 종이에 눌러 찍은 것처럼 가장자리가 살짝 솟고 층의 높이와 잉크 입자가 있으며, 옆에서 오는 빛은 아주 약합니다. 색은 사진에서 밝고 생기 있는 두세 가지, 많게는 네 가지에 따뜻한 포인트를 조금 더하고, 흰빛에 가까운 바탕 주변은 넓은 여백이며, 글은 여백이나 파도 가장자리에 조금만 들어갑니다.",
+    "traits": [
+      "중앙 파형",
+      "두꺼운 잉크 부조",
+      "찍힌 잉크 입자",
+      "생기 있는 색",
+      "아주 넓은 여백"
+    ],
+    "good": [
+      "움직임이나 곡선이 있는 주인공: 서퍼, 뛰어오르는 고양이, 달리는 아이, 물고기",
+      "파도 위에 태울 수 있는 것: 작은 배, 자전거, 새, 커피 한 잔",
+      "힘 있는 행사 포스터, 표지, 굿즈 인쇄로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "장면 전체를 남겨야 하는 사진(가운데 파도 하나와 주인공 하나만 남습니다)",
+      "직선 질서가 중심인 조용하고 반듯한 건축(흐르는 파형과 잘 어울리지 않습니다)",
+      "플라스틱 같은 3D, 금속 반사, 사실적 일러스트, CG 렌더링을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "موجة مركزية بملمس حبر بارز",
+    "tagline": "يضع بطل صورتك على موجة مجرّدة في المنتصف، مطبوعة كأنها بحبر سميك بارز.",
+    "look": "في المنتصف موجة مجرّدة ترتفع وتلتفّ، خطاً كانت أو شريطاً لونياً، ولا يلزم أن تكون ماء بحر حقيقياً. يستقر أوضح عنصر في الصورة على القمة أو في انحناءة أو منعطف، وقد يخترق الموجة أو يختفي جزء منه خلفها. يبدو العنصر والموجة كحبر سميك مكدّس ومضغوط على الورق: حواف بارزة قليلاً، وارتفاع طبقات، وحبيبات حبر، مع ضوء جانبي خفيف جداً. لونان إلى أربعة ألوان زاهية وحيوية من الصورة مع لمسة دافئة صغيرة، على أرضية قريبة من الأبيض يحيط بها فراغ واسع، وتستقر كلمات قليلة فيه أو على طول الموجة.",
+    "traits": [
+      "موجة مركزية",
+      "نقش حبر بارز",
+      "حبيبات الطباعة",
+      "ألوان حيوية",
+      "فراغ واسع جداً"
+    ],
+    "good": [
+      "عناصر فيها حركة أو انحناءات: راكب أمواج، قطة تقفز، طفل يركض، سمكة",
+      "أشياء يمكن أن تركب الموجة: قارب صغير، دراجة، طائر، فنجان قهوة",
+      "صور تريدها ملصقاً حيوياً لفعالية أو غلافاً أو منتجات مطبوعة"
+    ],
+    "poor": [
+      "صور يجب أن يبقى فيها المشهد كاملاً، إذ لا يبقى إلا موجة واحدة في الوسط وعنصر واحد",
+      "عمارة هادئة مربعة تقوم على الخطوط المستقيمة، لا تنسجم كثيراً مع موجة منسابة",
+      "طلب مظهر بلاستيكي ثلاثي الأبعاد أو انعكاسات معدنية أو رسم واقعي أو تصيير حاسوبي"
+    ]
+  }
+}
